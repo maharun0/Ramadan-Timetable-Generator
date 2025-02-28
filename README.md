@@ -20,3 +20,6 @@ You can also specify what type font you want to use and also customize all sort 
 ## How to run?
 - Customize(if you wnat) variable names in main.py
 - run `python main.py` command in the terminal.
+
+### Timetable Source
+[Timetable Source Link](https://inews.zoombangla.com/ramadan-calendar-2025/)
